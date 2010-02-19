@@ -10,8 +10,3 @@ Feature  SERVER-BASED DISPATCHER
    So that I can dispatch with  
 	 my customer list, trucking routes and drivers.
 
-   Author: Gregg
-
-   Date: 2/16/10
-	
-   Estimate:

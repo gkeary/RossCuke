@@ -5,8 +5,3 @@ Feature  RDP USER
 	 
    So that I can interact with RoadVision
 
-   Author: Gregg
-
-   Date: 2/16/10
-	
-   Estimate:

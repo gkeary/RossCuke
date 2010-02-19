@@ -5,8 +5,3 @@ Feature  EMAIL USER
 	 
    So that I can cummunicate with other Ross users
 
-   Author: Gregg
-
-   Date: 2/16/10
-	
-   Estimate:

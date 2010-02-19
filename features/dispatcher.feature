@@ -11,9 +11,3 @@ Feature  STANDALONE DISPATCHER
     So that 
 	  I can see my customer list and my trucking routes and use them for dispatch.
 
-   Author: Gregg
-
-   Date: 2/16/10
-	
-   Estimate:
-

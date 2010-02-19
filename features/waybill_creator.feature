@@ -7,8 +7,3 @@ Feature  WAYBILL CREATOR
     validate the Waybill data fields 
 	and enter Waybill into RoadVision.
 
-   Author: Gregg
-
-   Date: 2/16/10
-	
-   Estimate:
