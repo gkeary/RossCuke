@@ -1,3 +1,4 @@
+@b
 Feature  SCAN STATION USER
 
    As a  Scat Station User 
@@ -6,3 +7,5 @@ Feature  SCAN STATION USER
    So that NH data entry operators can read the barcode, validate the 
      Waybill data fields and enter Waybill into RoadVision.
 
+
+#############################################

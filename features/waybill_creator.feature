@@ -1,3 +1,4 @@
+@B
 Feature  WAYBILL CREATOR
 
    As a  Waybill Creator (scanner operator)
@@ -7,3 +8,5 @@ Feature  WAYBILL CREATOR
     validate the Waybill data fields 
 	and enter Waybill into RoadVision.
 
+
+#############################################

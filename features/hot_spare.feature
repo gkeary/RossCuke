@@ -1,4 +1,4 @@
-
+@a
 Feature HOT SPARE WORKSTATION 
 
    As a  Windows PC (server or workstation)
@@ -7,3 +7,5 @@ Feature HOT SPARE WORKSTATION
    So that I can support Ross users, Dispatch 1.6 operators and/or Comet Tracker users
    So that LIne Hauls can deliver me to replace a failed workstation
 
+
+#############################################
