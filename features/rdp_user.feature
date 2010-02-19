@@ -1,4 +1,4 @@
-@b
+@B_priority
 Feature  RDP USER
 
    As an  RDP User

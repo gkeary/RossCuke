@@ -1,4 +1,4 @@
-@b
+@B_priority
 Feature  SCAN STATION USER
 
    As a  Scat Station User 

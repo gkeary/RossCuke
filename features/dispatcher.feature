@@ -1,4 +1,4 @@
-@A
+@A_priority
 Feature  STANDALONE DISPATCHER
 
    As a Standalone Dispatcher

@@ -1,4 +1,4 @@
-@B
+@B_priority
 Feature  STANDARD USER
 
    As a Standard User

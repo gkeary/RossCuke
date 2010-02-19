@@ -1,4 +1,4 @@
-@A
+@A_priority
 Feature  SERVER-BASED DISPATCHER
 
    As a Server-based Dispatcher

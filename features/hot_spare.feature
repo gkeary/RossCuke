@@ -1,4 +1,4 @@
-@a
+@A_priority
 Feature HOT SPARE WORKSTATION 
 
    As a  Windows PC (server or workstation)

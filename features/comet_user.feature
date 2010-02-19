@@ -1,4 +1,4 @@
-@B
+@B_priority
 Feature  COMET TRACKER USER
 
    As a Comet Tracker User

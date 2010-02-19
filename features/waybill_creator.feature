@@ -1,4 +1,4 @@
-@B
+@B_priority
 Feature  WAYBILL CREATOR
 
    As a  Waybill Creator (scanner operator)
